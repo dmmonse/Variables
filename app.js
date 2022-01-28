@@ -3,8 +3,9 @@ var x=3
 var y=6
 
 //block variable//
+let z=7
 {
-    let z=2
+ let z=8
 }
 
 //string varible//
