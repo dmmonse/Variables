@@ -4,8 +4,8 @@ var y=6
 
 //block variable//
 {
-    let x=2
-};
+    let z=2
+}
 
 //string varible//
 let firstName= "guys"
@@ -16,4 +16,4 @@ let text =`Welcome ${firstName}, ${lastName}!`;
 const professor = {
     firstName: "Rodolfo",
     lastName: "Macias",
-};
+}
