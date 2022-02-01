@@ -1,3 +1,4 @@
+
 //global variable//
 var x=3
 var y=6
@@ -18,3 +19,5 @@ const professor = {
     firstName: "Rodolfo",
     lastName: "Macias",
 }
+console.log ()
+
