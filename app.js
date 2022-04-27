@@ -2,7 +2,9 @@
 //global variable//
 var x=3
 var y=6
-
+//math operation//
+var mathOperation= y/x;
+console.log(mathOperation);
 //block variable//
 let z=7
 {
